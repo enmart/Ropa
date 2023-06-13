@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>MENU</title>
+</head>
+<body>
+
+<body bgcolor="Moccasin"> 
+
+<font face="Orbitron" color="black" size="17"><marquee behavior="alternate" scrollamount="15">New Horizont</marquee></font>
+
+<img src="sinfondo.png" width="9%" height="12%" align="left" vspace="2">
+<img src="sinfondo.png" width="9%" height="12%" align="right" vspace="2">
+
+<hr size="10" color="BurlyWood" vspace="1180">
+</HTML>
