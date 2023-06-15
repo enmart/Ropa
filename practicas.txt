@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>Menú de prácticas</title>
-</head>
-<body>
-<body bgcolor="Lavender">
-<font face="Kalam" size="5">
-
-<font face="Gill Sans MT" size="7">
